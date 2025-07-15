@@ -96,3 +96,6 @@ Para este projetos vamos retornar as ultimas 10 avaliações atualizadas de film
 
     if __name__ == '__main__': #SE O ARQUIVO ESTIVER SENDO EXECUTADO DIRETAMENTE NO PYTHON FAÇA:
         main()#RODE A FUNÇÃO
+
+
+## Passo 6: Rode a main função
