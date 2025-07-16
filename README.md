@@ -96,8 +96,3 @@ Para este projetos vamos retornar as ultimas 10 avaliações atualizadas de film
 
     if __name__ == '__main__': #SE O ARQUIVO ESTIVER SENDO EXECUTADO DIRETAMENTE NO PYTHON FAÇA:
         main()#RODE A FUNÇÃO
-
-
-## Passo 6: Rode o código e avalie o tempo de resposta
-
-Usando a IDE para escrita do código, rode-o e avalie o tempo de resposta. Fique a vontade em mudar os valores do MAX_THREADS e comparar os tempos de resposta obtidos.
